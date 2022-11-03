@@ -1,0 +1,28 @@
+{
+  "name": "make-random-msg",
+  "version": "1.0.0",
+  "description": "This is for posting a package to the npm website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LopezJoseMarcel/make-random-msg.git"
+  },
+  "keywords": [
+    "random",
+    "string",
+    "messages"
+  ],
+  "author": "Jose Marcel Lopez <lopezjosemarcel11@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LopezJoseMarcel/make-random-msg/issues"
+  },
+  "homepage": "https://github.com/LopezJoseMarcel/make-random-msg#readme",
+  "bin": {
+    "make-random-msg": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
